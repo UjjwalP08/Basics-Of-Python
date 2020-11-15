@@ -4,6 +4,10 @@ shopping = ["biscuits", "chezze", "cokacola", 23, 34]
 print(shopping)
 # print the values of list
 
+print(type(shopping))
+#Print which type data type we are using
+
+
 print(shopping[3])
 # print index 3 element
 
@@ -25,6 +29,11 @@ print(shopping[0:5])  # List slicing
 numbers = [1, 35, 6, 7, 2, 60, 9, 12, 43, 34]
 print(numbers)
 
+print(max(numbers))
+#print max element which is  in the list
+
+print(min(numbers))
+#print min element which is in the list
 """Some List Method or Function"""
 
 numbers.sort()  # use this function to sorting elemnts
