@@ -48,6 +48,7 @@ print(s1.intersection(s))
 
 print(max(s1))
 print(min(s1))
+print(len(s1))
 """For more set functions visit this website
 https://www.w3schools.com/python/python_ref_set.asp
 """
