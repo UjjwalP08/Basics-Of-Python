@@ -18,12 +18,12 @@
 #
 #
 
-l2=[3,5,6,7,"name","surname",43,54,76,34,38]
-
-for items in l2:
-    if str(items).isnumeric() and items>6:
-        print(items)
-
+# l2=[3,5,6,7,"name","surname",43,54,76,34,38]
+#
+# for items in l2:
+#     if str(items).isnumeric() and items>6:
+#         print(items)
+#
 
 
 

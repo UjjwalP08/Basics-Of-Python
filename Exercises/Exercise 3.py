@@ -28,6 +28,6 @@ while(i>=0):
             #continue
     else:
         print("")
-        print("Your game is Over")
+        print("Your game is Over You have no more chance")
         break
 

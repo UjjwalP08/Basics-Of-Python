@@ -1,0 +1,3 @@
+Enter data in file i am learning python
+Python is easy,simple and interesting language
+Python is case sensitive Enter data in file
