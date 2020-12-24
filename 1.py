@@ -13,3 +13,4 @@ for value in range(0,n+1):
     for itm in range(1,value+1,1):
         print("*",end=" ")
     print()
+
