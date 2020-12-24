@@ -1,0 +1,5 @@
+when we import our python file  to other python file
+you should check first your all file is only in one folder
+not other folders
+
+never give your file name as per module name it is generate problem
