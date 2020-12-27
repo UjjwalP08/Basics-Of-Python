@@ -3,3 +3,8 @@ you should check first your all file is only in one folder
 not other folders
 
 never give your file name as per module name it is generate problem
+
+In oops in python in always first find instance variable in child or parent class
+and if he found it so print it but if he not found so he print class variable
+of that class which is inherit and if he also not found in class variable so he
+print class variable of "parent" class

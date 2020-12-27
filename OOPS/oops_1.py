@@ -1,3 +1,10 @@
+"""
+Instance Variable:- Variable of object is known as ....
+
+class Variable:- Variable of class is known as ..........
+"""
+
+
 class Student:
     pass #pass means nothing it means our class or function is empty
         #and if we write pass so it is valid
