@@ -1,0 +1,23 @@
+Here we are change our python file to in .exe file
+
+for that change we are required 'pyinstaller' module
+
+so install that module open windows powershell and type that command
+pip install pyinstaller
+
+after that make any file which have python program he we make exe_file.py file
+you can also create .txt file which have python program
+
+Now, convert into .exe file again run windows powershell that folder and type this command
+        pyinstaller file_name.extension
+
+        eg:l pyinstaller .\exe_files.py
+
+after run that command 2 folder and 1 .spec file is created
+
+after that open folder which name is dist.Inside dist folder again one folder is  exist so open it
+after opeing that you can see you .exe file for open that file run windows powershell and type this
+file name with its extension and after press enter that file is execute
+
+if you only required one files after converting into .exe so type this command
+        pyinstaller --onefile file_name.extension

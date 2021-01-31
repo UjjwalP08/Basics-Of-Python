@@ -1,4 +1,4 @@
-f  open("u.txt")
+f  = open("u.txt")
 
 """"
 tell() function use to knew that where is our file pointer or 

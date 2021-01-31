@@ -9,7 +9,7 @@
 n1 = input("Enter n1:-")
 n2 = input("Enter n2:-")
 
-try:  # using try except print the error as msg if it will genrate
+try:  # using try except print the error as msg if it will generate
     print("The sum is", int(n1) + int(n2))
 
 except Exception as e:

@@ -44,10 +44,10 @@ def Health_Management_System():
                     with open("hd.txt", "a") as hd:
                         while c != 0:
                             ha = input("Enter what Harry want eat:-")
-                            hd.write(str(getdate()))
-                            hd.write(" ")
-                            hd.write(ha)
-                            hd.write("\n")
+                            hd.write(str(getdate())+" "+ha+"\n")
+                            # hd.write(" ")
+                            # hd.write(ha)
+                            # hd.write("\n")
                             c = int(
                                 input("For continue press 1 and for exit press 0:-"))
 
@@ -68,10 +68,10 @@ def Health_Management_System():
                         while c != 0:
                             ha = input(
                                 "Enter which exercise harry want to do:-")
-                            hd.write(str(getdate()))
-                            hd.write(" ")
-                            hd.write(ha)
-                            hd.write("\n")
+                            hd.write(str(getdate())+" "+ha+"\n")
+                            # hd.write(" ")
+                            # hd.write(ha)
+                            # hd.write("\n")
                             c = int(
                                 input("For continue press 1 and for exit press 0:-"))
 
@@ -101,10 +101,10 @@ def Health_Management_System():
                     with open("rd.txt", "a") as hd:
                         while c != 0:
                             ha = input("Enter what Rohan want eat:-")
-                            hd.write(str(getdate()))
-                            hd.write(" ")
-                            hd.write(ha)
-                            hd.write("\n")
+                            hd.write(str(getdate())+" "+ha+"\n")
+                            # hd.write(" ")
+                            # hd.write(ha)
+                            # hd.write("\n")
                             c = int(
                                 input("For continue press 1 and for exit press 0:-"))
             elif r == 2:
@@ -124,10 +124,10 @@ def Health_Management_System():
                         while c != 0:
                             ha = input(
                                 "Enter which exercise Rohan want to do:-")
-                            hd.write(str(getdate()))
-                            hd.write(" ")
-                            hd.write(ha)
-                            hd.write("\n")
+                            hd.write(str(getdate())+" "+ha+"\n")
+                            # hd.write(" ")
+                            # hd.write(ha)
+                            # hd.write("\n")
                             c = int(
                                 input("For continue press 1 and for exit press 0:-"))
 
@@ -156,10 +156,10 @@ def Health_Management_System():
                     with open("had.txt", "a") as hd:
                         while c != 0:
                             ha = input("Enter what Hammad want eat:-")
-                            hd.write(str(getdate()))
-                            hd.write(" ")
-                            hd.write(ha)
-                            hd.write("\n")
+                            hd.write(str(getdate())+" "+ha+"\n")
+                            # hd.write(" ")
+                            # hd.write(ha)
+                            # hd.write("\n")
                             c = int(
                                 input("For continue press 1 and for exit press 0:-"))
 
@@ -180,10 +180,10 @@ def Health_Management_System():
                         while c != 0:
                             ha = input(
                                 "Enter which exercise Hammad want to do:-")
-                            hd.write(str(getdate()))
-                            hd.write(" ")
-                            hd.write(ha)
-                            hd.write("\n")
+                            hd.write(str(getdate())+" "+ha+"\n")
+                            # hd.write(" ")
+                            # hd.write(ha)
+                            # hd.write("\n")
                             c = int(
                                 input("For continue press 1 and for exit press 0:-"))
 
