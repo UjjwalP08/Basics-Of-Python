@@ -1,3 +1,6 @@
+""" 
+        ----------------> Time Module
+ """
 import time
 
 """

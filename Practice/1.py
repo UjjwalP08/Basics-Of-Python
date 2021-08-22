@@ -1,3 +1,7 @@
+""" 
+        ---------> Program of printing star pattern <--------- 
+ """
+
 n=input("Enter the value of n:-")
 n=int(n)
 # for value in range(n,0,-1):

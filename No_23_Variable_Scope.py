@@ -1,31 +1,35 @@
-# c=45 #Global Variable
-#
-# def func1():
-#     y=54 #Local Variable
-#     print(y,c)
-#
-#
-# func1()
-# print(y) #give error because y is local variable and its scope only
+""" 
+        ---------->  Variable Scope,Global Variable and Local Variable,Global Keyword
+ """
+
+c=45 #Global Variable
+
+def func1():
+    y=54 #Local Variable
+    print(y,c)
+
+
+func1()
+print(y) #give error because y is local variable and its scope only
 # for fucn1() scope
-# print(c)
+print(c)
 
 
 
-# c=45
-#
-# def func2():
-#     global c
-#     """Here using global keyword we are able to change value of
-#     global variable c
-#     if we aren't use the global keyword we are unable to change the
-#     value of global vatiable c value
-#     """
-#     c+=55
-#     print("This is value of c in side the function" ,c)
-#
-# func2()
-# print(c)
+c=45
+
+def func2():
+    global c
+    """Here using global keyword we are able to change value of
+    global variable c
+    if we aren't use the global keyword we are unable to change the
+    value of global vatiable c value
+    """
+    c+=55
+    print("This is value of c in side the function" ,c)
+
+func2()
+print(c)
 
 """
 Nested function:- Function inside the function is known as....

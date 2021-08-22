@@ -3,7 +3,7 @@ or try to open file in "w" or "a" mode
 
 when we import our python file  to other python file
 you should check first your all file is only in one folder
-not other folders
+not other folders if you want to import any file in your python file you save all the python files in only 1 folder
 
 never give your file name as per module name it is generate problem
 

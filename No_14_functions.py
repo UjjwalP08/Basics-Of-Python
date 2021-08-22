@@ -12,5 +12,5 @@ def avg(a,b):#User define function and function with arguments
 c=(avg(a,b))#function call
 print("The avrages is",avg(a,b))
 print("The avrages is",c)
-
+# --> Doc string in nothing but the only comment in fucntion
 print(avg.__doc__)

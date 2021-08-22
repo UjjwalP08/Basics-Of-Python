@@ -42,7 +42,8 @@ class D(B,C):
     pass
 
     def det(self):
-        print("This is Class D")
+        pass
+        # print("This is Class D")
 
 a=A()
 b=B()

@@ -1,3 +1,6 @@
+
+                    ---------> Modes For the File Basic IO in python
+
 r : r mode opens a file for read-only. We do not have permission to update or change any data in this mode.
 
 w : w mode does not concern itself with what is present in the file. It just opens a file for writing and if there is already some data present in the file, it overwrites it.
